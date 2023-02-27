@@ -1,4 +1,4 @@
-# 2022-Women-s-Euro-Usage-Rate
+
 # **Women's Euro 2022 Player Usage Rate**
 
 **Technology/Tools Used**: Python (url_lib, SQL_Lite, JSON_parsing), SQL (SQL_Lite Database, Microsoft SQL Server), Power-BI
